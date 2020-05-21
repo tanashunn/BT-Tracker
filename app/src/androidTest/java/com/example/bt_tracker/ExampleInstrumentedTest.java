@@ -1,4 +1,4 @@
-package com.example.bttracker;
+package com.example.bt_tracker;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.bttracker", appContext.getPackageName());
+        assertEquals("com.example.bt_tracker", appContext.getPackageName());
     }
 }

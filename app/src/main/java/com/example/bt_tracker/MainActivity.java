@@ -1,4 +1,4 @@
-package com.example.bttracker;
+package com.example.bt_tracker;
 
 import androidx.appcompat.app.AppCompatActivity;
 
